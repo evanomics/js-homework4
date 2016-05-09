@@ -19,6 +19,6 @@ var day = prompt('what day of the week is it?');
 			console.log('Montell Jordan day');
 			break;
 		case 'Saturday':
-			console.log("Never wake up early on saturday, it's bad for you");
+			console.log("C'mon Evan.  Didn't you wake up and watch cartoons as a kid?");
 			break;
 	}
