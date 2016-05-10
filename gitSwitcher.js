@@ -21,4 +21,7 @@ var day = prompt('what day of the week is it?');
 		case 'Saturday':
 			console.log("C'mon Evan.  Didn't you wake up and watch cartoons as a kid?");
 			break;
+		default:
+			console.log("invalid weekday entered");
+			break;
 	}
